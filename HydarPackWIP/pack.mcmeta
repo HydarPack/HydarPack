@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": "hydar"
+  },
+  "language": {
+    "en_hy": {
+      "name": "hydar speak",
+      "region": "Skyborn",
+      "bidirectional": false
+    }
+  }
+}
